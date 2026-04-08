@@ -1,16 +1,18 @@
-# Hello, we are the Analog WakaTime team.
+# Hello, we are the Analog WakaTime team!
 
-# Plugin fro all 
+### 🛠 Plugins for all environments
 
-- JetBrains
-- https://plugins.jetbrains.com/plugin/31124-analog-wakatime
-- VS Code
-- https://marketplace.visualstudio.com/items?itemName=pablaofficeals.analog-wakatime
-- Officel Site
-- https://analogwakatime.com
+* **JetBrains IDEs**
+    * [Marketplace: Analog WakaTime](https://plugins.jetbrains.com/plugin/31124-analog-wakatime) — **Live** ✅
+* **VS Code**
+    * [VS Marketplace: Analog WakaTime](https://marketplace.visualstudio.com/items?itemName=pablaofficeals.analog-wakatime) — **Live** ✅
+* **Official Website**
+    * [analogwakatime.com](https://analogwakatime.com)
 
-## Status
+## Project Status
 
-- JetBrains Plugin: Live
-- VS Code Extension: Live
-- Backend: Active development
+- **JetBrains Plugin:** `v1.1-SNAPSHOT` [Approved] 🟢
+- **VS Code Extension:** Live 🟢
+
+---
+*Developed with passion for developers who love stats.*
