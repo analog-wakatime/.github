@@ -11,7 +11,7 @@
 
 ## Project Status
 
-- **JetBrains Plugin:** `v1.1-SNAPSHOT` [Approved] 🟢
+- **JetBrains Plugin:** 🟢
 - **VS Code Extension:** Live 🟢
 
 ---
